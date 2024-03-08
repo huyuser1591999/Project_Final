@@ -261,7 +261,7 @@ int main()
 
     printf("\n---------------------------------------------------------------------------------\n");
 
-    printf("\nDo you want to player again?(y/n) ");
+    printf("\nDo you want to replay?(y/n) ");
     scanf(" %c", &options);
 
     if(options == 'y')
